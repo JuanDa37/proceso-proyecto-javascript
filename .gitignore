@@ -1,4 +1,4 @@
 ## Puedes usar gitiognore.io para crear el archivo ##
 .gitignore
 .git
-.archivo1.txt
+archivo1.txt
